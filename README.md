@@ -1,2 +1,2 @@
 # Customer-Prediction-model-with-sklearn
-Logistic regression 
+Logistic regression model with sikit learn library
